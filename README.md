@@ -1,2 +1,2 @@
-# spelling-corrector
-Spelling Corrector
+# Stunning spelling-corrector
+STUNNING and AMAZING Spelling Corrector
